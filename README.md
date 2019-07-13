@@ -7,14 +7,14 @@ Introduction: Urban analytics
 
 Part 1: Responsible Data Sharing
 1. Background on Differential Privacy for Data Sharing
-* Exercise: Data Synthesizer 
-2. Paper Discussion: PrivBayes and Sampling
-3. Background on Fairness
-4. Paper Discussion: Capuchin
+1. Exercise: Data Synthesizer 
+1. Paper Discussion: PrivBayes and Sampling
+1. Background on Fairness
+1. Paper Discussion: Capuchin
 
 Part 2: Neural Methods for Urban Analytics
 1. Background on Neural Networks
-2. Paper Discussion: Neural methods for Urban Analytics
-* Exercise: LSTMs for urban data
+1. Paper Discussion: Neural methods for Urban Analytics
+1. Exercise: LSTMs for urban data
 
 Wrap-up
